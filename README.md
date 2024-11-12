@@ -22,8 +22,6 @@ ___
 - **[AI CHALLENGE II / Python, Streamlit, AzureOpenAI](https://github.com/perrohombre/AI-CHALLENGE-II)**: Developed for T-Mobile’s AI Innovation Challenge II, this AI application provides real-time sentiment analysis and document search using models like GPT-4, Whisper, and Text-to-Speech through Azure OpenAI.
 - **[Football Stats App / Django, React](https://github.com/perrohombre/football-stats-app)**: Developed for a university subject, this basic web application enables users to view football leagues and player statistics, including goals and assists.
 
-## :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tombiczek&theme=dark&background=000000)](https://git.io/streak-stats)
+___
 
 
