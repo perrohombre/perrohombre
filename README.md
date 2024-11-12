@@ -19,13 +19,13 @@ ___
 
 ## 💼 Some of my projects:
 - **[ObsidianMD Chatbot / Python, Chainlit, OpenAIAPI, Electron](https://github.com/perrohombre/ObsidianMD_Chatbot)**: This desktop application, built with Chainlit and powered by Electron, enables an AI chatbot to interact with an Obsidian vault, allowing users to query notes, access task lists, and retrieve relevant information from their knowledge base.
-![ObsidianMD Chatbot Demo](Demo.png)
+  <img src="Demo.png" alt="ObsidianMD Chatbot Demo" width="400"/>
 
 - **[AI CHALLENGE II / Python, Streamlit, AzureOpenAI](https://github.com/perrohombre/AI-CHALLENGE-II)**: Developed for T-Mobile’s AI Innovation Challenge II, this AI application provides real-time sentiment analysis and document search using models like GPT-4, Whisper, and Text-to-Speech through Azure OpenAI.
-![AI CHALLENGE II Demo](Demo_Paint.png)
+  <img src="Demo_AI_Challenge_II.png" alt="AI CHALLENGE II Demo" width="400"/>
 
 - **[Football Stats App / Django, React](https://github.com/perrohombre/football-stats-app)**: Developed for a university project, this basic web application enables users to view football leagues and player statistics, including goals and assists.
-![Football Stats App Demo](Demo_AI_Challenge_II.png)
+  <img src="Demo_Paint.png" alt="Football Stats App Demo" width="400"/>
 ___
 
 
