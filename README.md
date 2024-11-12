@@ -4,7 +4,7 @@
 
 I'm a Telecommunications student at Warsaw University of Technology, specializing in Teleinformatics. Passionate about **DevOps technologies**, **CI/CD**, **Kubernetes**, **AI chatbots**, and **Machine Learning**. Currently, I'm working at **T-Mobile as a DevOps Junior**, where I’m honing my skills and working on exciting projects in the field.
 
---
+---
 
 ## 🚀 Currently working on:
 - **📊 Thesis Project**: I'm currently working on my thesis project, a microservices-based application for analyzing soccer player skills. This app combines Java Spring Boot, Python microservices for machine learning and data analysis, and PostgreSQL for data storage. It features a React frontend with a Text2SQL chatbot, player ranking, and skill clustering, all orchestrated with Kubernetes. CI/CD is managed through GitHub Actions and ArgoCD to ensure efficient deployment and updates.
