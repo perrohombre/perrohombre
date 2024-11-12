@@ -8,7 +8,7 @@
 
 I'm a Telecommunications student at Warsaw University of Technology, specializing in Teleinformatics. Passionate about **DevOps technologies**, **CI/CD**, **Kubernetes**, **AI chatbots**, and **Machine Learning**. Currently, I'm working at **T-Mobile as a DevOps Junior**, where I’m honing my skills and working on exciting projects in the field.
 
-Feel free to explore my projects, and let’s connect if you share similar interests!
+___
 
 ## 🔧 Technologies & Tools
 <div>
