@@ -8,7 +8,7 @@ I follow the AI space closely — new models, agent frameworks, and tooling — 
 
 Currently finishing my M.Sc. in Teleinformatics and Cybersecurity at the Warsaw University of Technology.
 
-📫 [aleksander@gajowniczek.com](mailto:aleksander@gajowniczek.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/aleksander-gajowniczek-73788426b/)
+📫 [ag.gajowniczek@gmail.com](mailto:ag.gajowniczek@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/aleksander-gajowniczek-73788426b/)
 
 ---
 
