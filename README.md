@@ -15,6 +15,8 @@ Currently finishing my M.Sc. in Teleinformatics and Cybersecurity at the Warsaw 
 ## 🧠 Team Brain
 
 > **[perrohombre/TEAM_BRAIN](https://github.com/perrohombre/TEAM_BRAIN)** — master's thesis project
+>
+> 🔒 Private until the thesis defense
 
 A RAG-based knowledge management system for development teams. Notes are vectorized, linked into a knowledge graph, and served to both a web frontend and IDE agents.
 
