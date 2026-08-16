@@ -18,6 +18,8 @@ Currently finishing my M.Sc. in Teleinformatics and Cybersecurity at the Warsaw 
 
 A RAG-based knowledge management system for development teams. Notes are vectorized, linked into a knowledge graph, and served to both a web frontend and IDE agents.
 
+![Team Brain — knowledge graph workspace](TeamBrain.png)
+
 - **Agentic retrieval** — a tool-use loop that decides how to search instead of running a single fixed query
 - **Hybrid search** — vector + keyword retrieval over Weaviate
 - **Knowledge-graph frontend** — notes and their relations are browsable, not just searchable
